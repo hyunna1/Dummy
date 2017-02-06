@@ -8,6 +8,7 @@ public class HelloGitHub {
 		System.out.println("It's collaboration");
 		System.out.println("Complict");
 		System.out.println("Confilt Test");
+		System.out.println("Pushed");
 
 	}
 }
